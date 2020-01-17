@@ -1,0 +1,104 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+; Data created from history path: S09_Veronica_ok/Raw Data/Linear Derivation/Elimina Markers/Correction/Guided_OP_down_ch/Filters/New Reference/Artifact Rejection/BaselineCorrection
+; The channel numbers are related to the channels in the exported file.
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=S09_noco_G_OP_do.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>,
+; <Date (YYYYMMDDhhmmssuuuuuu)>
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,00000000000932738000
+Mk2=Stimulus,S  5,501,1,0
+Mk3=Time 0,,501,1,0
+Mk4=New Segment,,1251,1,0,00000000000940494000
+Mk5=Stimulus,S  5,1751,1,0
+Mk6=Time 0,,1751,1,0
+Mk7=New Segment,,2501,1,0,00000000001057172000
+Mk8=Stimulus,S  5,3001,1,0
+Mk9=Time 0,,3001,1,0
+Mk10=New Segment,,3751,1,0,00000000001104174000
+Mk11=Stimulus,S  5,4251,1,0
+Mk12=Time 0,,4251,1,0
+Mk13=New Segment,,5001,1,0,00000000001135358000
+Mk14=Stimulus,S  5,5501,1,0
+Mk15=Time 0,,5501,1,0
+Mk16=New Segment,,6251,1,0,00000000001158030000
+Mk17=Stimulus,S  5,6751,1,0
+Mk18=Time 0,,6751,1,0
+Mk19=New Segment,,7501,1,0,00000000001205252000
+Mk20=Stimulus,S  5,8001,1,0
+Mk21=Time 0,,8001,1,0
+Mk22=New Segment,,8751,1,0,00000000001228442000
+Mk23=Stimulus,S  5,9251,1,0
+Mk24=Time 0,,9251,1,0
+Mk25=New Segment,,10001,1,0,00000000001244090000
+Mk26=Time 0,,10501,1,0
+Mk27=Stimulus,S  5,10501,1,0
+Mk28=New Segment,,11251,1,0,00000000001314304000
+Mk29=Time 0,,11751,1,0
+Mk30=Stimulus,S  5,11751,1,0
+Mk31=New Segment,,12501,1,0,00000000001400032000
+Mk32=Stimulus,S  5,13001,1,0
+Mk33=Time 0,,13001,1,0
+Mk34=New Segment,,13751,1,0,00000000001423874000
+Mk35=Time 0,,14251,1,0
+Mk36=Stimulus,S  5,14251,1,0
+Mk37=New Segment,,15001,1,0,00000000001545046000
+Mk38=Time 0,,15501,1,0
+Mk39=Stimulus,S  5,15501,1,0
+Mk40=New Segment,,16251,1,0,00000000001718844000
+Mk41=Stimulus,S  5,16751,1,0
+Mk42=Time 0,,16751,1,0
+Mk43=New Segment,,17501,1,0,00000000001842640000
+Mk44=Stimulus,S  5,18001,1,0
+Mk45=Time 0,,18001,1,0
+Mk46=New Segment,,18751,1,0,00000000001850066000
+Mk47=Stimulus,S  5,19251,1,0
+Mk48=Time 0,,19251,1,0
+Mk49=New Segment,,20001,1,0,00000000001914308000
+Mk50=Stimulus,S  5,20501,1,0
+Mk51=Time 0,,20501,1,0
+Mk52=New Segment,,21251,1,0,00000000002156454000
+Mk53=Stimulus,S  5,21751,1,0
+Mk54=Time 0,,21751,1,0
+Mk55=New Segment,,22501,1,0,00000000002236032000
+Mk56=Time 0,,23001,1,0
+Mk57=Stimulus,S  5,23001,1,0
+Mk58=New Segment,,23751,1,0,00000000002606612000
+Mk59=Time 0,,24251,1,0
+Mk60=Stimulus,S  5,24251,1,0
+Mk61=New Segment,,25001,1,0,00000000002710362000
+Mk62=Time 0,,25501,1,0
+Mk63=Stimulus,S  5,25501,1,0
+Mk64=New Segment,,26251,1,0,00000000002717134000
+Mk65=Time 0,,26751,1,0
+Mk66=Stimulus,S  5,26751,1,0
+Mk67=New Segment,,27501,1,0,00000000002811506000
+Mk68=Stimulus,S  5,28001,1,0
+Mk69=Time 0,,28001,1,0
+Mk70=New Segment,,28751,1,0,00000000003041964000
+Mk71=Stimulus,S  5,29251,1,0
+Mk72=Time 0,,29251,1,0
+Mk73=New Segment,,30001,1,0,00000000003059502000
+Mk74=Time 0,,30501,1,0
+Mk75=Stimulus,S  5,30501,1,0
+Mk76=New Segment,,31251,1,0,00000000003122444000
+Mk77=Time 0,,31751,1,0
+Mk78=Stimulus,S  5,31751,1,0
+Mk79=New Segment,,32501,1,0,00000000003216796000
+Mk80=Time 0,,33001,1,0
+Mk81=Stimulus,S  5,33001,1,0
+Mk82=New Segment,,33751,1,0,00000000003225158000
+Mk83=Time 0,,34251,1,0
+Mk84=Stimulus,S  5,34251,1,0
+Mk85=New Segment,,35001,1,0,00000000003320999999
+Mk86=Stimulus,S  5,35501,1,0
+Mk87=Time 0,,35501,1,0
+Mk88=New Segment,,36251,1,0,00000000003443512000
+Mk89=Time 0,,36751,1,0
+Mk90=Stimulus,S  5,36751,1,0
