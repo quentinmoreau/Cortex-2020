@@ -1,0 +1,113 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+; Data created from history path: S18_Diane/Raw Data/Elimina Markers/Correction/Guided_UG_up_ch/Filters/New Reference/Artifact Rejection/BaselineCorrection
+; The channel numbers are related to the channels in the exported file.
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=S18_noco_G_UG_up.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>,
+; <Date (YYYYMMDDhhmmssuuuuuu)>
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,00000000003639794000
+Mk2=Stimulus,S  8,501,1,0
+Mk3=Time 0,,501,1,0
+Mk4=New Segment,,1251,1,0,00000000003703638000
+Mk5=Stimulus,S  8,1751,1,0
+Mk6=Time 0,,1751,1,0
+Mk7=New Segment,,2501,1,0,00000000003740536000
+Mk8=Stimulus,S  8,3001,1,0
+Mk9=Time 0,,3001,1,0
+Mk10=New Segment,,3751,1,0,00000000003858398000
+Mk11=Stimulus,S  8,4251,1,0
+Mk12=Time 0,,4251,1,0
+Mk13=New Segment,,5001,1,0,00000000003936620000
+Mk14=Stimulus,S  8,5501,1,0
+Mk15=Time 0,,5501,1,0
+Mk16=New Segment,,6251,1,0,00000000003958758000
+Mk17=Stimulus,S  8,6751,1,0
+Mk18=Time 0,,6751,1,0
+Mk19=New Segment,,7501,1,0,00000000004132336000
+Mk20=Stimulus,S  8,8001,1,0
+Mk21=Time 0,,8001,1,0
+Mk22=New Segment,,8751,1,0,00000000004147232000
+Mk23=Stimulus,S  8,9251,1,0
+Mk24=Time 0,,9251,1,0
+Mk25=New Segment,,10001,1,0,00000000004202664000
+Mk26=Stimulus,S  8,10501,1,0
+Mk27=Time 0,,10501,1,0
+Mk28=New Segment,,11251,1,0,00000000004210840000
+Mk29=Stimulus,S  8,11751,1,0
+Mk30=Time 0,,11751,1,0
+Mk31=New Segment,,12501,1,0,00000000004332128000
+Mk32=Stimulus,S  8,13001,1,0
+Mk33=Time 0,,13001,1,0
+Mk34=New Segment,,13751,1,0,00000000004448406000
+Mk35=Stimulus,S  8,14251,1,0
+Mk36=Time 0,,14251,1,0
+Mk37=New Segment,,15001,1,0,00000000004540254000
+Mk38=Time 0,,15501,1,0
+Mk39=Stimulus,S  8,15501,1,0
+Mk40=New Segment,,16251,1,0,00000000004555952000
+Mk41=Time 0,,16751,1,0
+Mk42=Stimulus,S  8,16751,1,0
+Mk43=New Segment,,17501,1,0,00000000004611168000
+Mk44=Time 0,,18001,1,0
+Mk45=Stimulus,S  8,18001,1,0
+Mk46=New Segment,,18751,1,0,00000000004728996000
+Mk47=Time 0,,19251,1,0
+Mk48=Stimulus,S  8,19251,1,0
+Mk49=New Segment,,20001,1,0,00000000004959974000
+Mk50=Stimulus,S  8,20501,1,0
+Mk51=Time 0,,20501,1,0
+Mk52=New Segment,,21251,1,0,00000000005030420000
+Mk53=Stimulus,S  8,21751,1,0
+Mk54=Time 0,,21751,1,0
+Mk55=New Segment,,22501,1,0,00000000005053408000
+Mk56=Time 0,,23001,1,0
+Mk57=Stimulus,S  8,23001,1,0
+Mk58=New Segment,,23751,1,0,00000000005209834000
+Mk59=Stimulus,S  8,24251,1,0
+Mk60=Time 0,,24251,1,0
+Mk61=New Segment,,25001,1,0,00000000005312448000
+Mk62=Stimulus,S  8,25501,1,0
+Mk63=Time 0,,25501,1,0
+Mk64=New Segment,,26251,1,0,00000000005359262000
+Mk65=Time 0,,26751,1,0
+Mk66=Stimulus,S  8,26751,1,0
+Mk67=New Segment,,27501,1,0,00000000005428892000
+Mk68=Time 0,,28001,1,0
+Mk69=Stimulus,S  8,28001,1,0
+Mk70=New Segment,,28751,1,0,00000000005436748000
+Mk71=Time 0,,29251,1,0
+Mk72=Stimulus,S  8,29251,1,0
+Mk73=New Segment,,30001,1,0,00000000005601250000
+Mk74=Stimulus,S  8,30501,1,0
+Mk75=Time 0,,30501,1,0
+Mk76=New Segment,,31251,1,0,00000000005616480000
+Mk77=Stimulus,S  8,31751,1,0
+Mk78=Time 0,,31751,1,0
+Mk79=New Segment,,32501,1,0,00000000005631510000
+Mk80=Stimulus,S  8,33001,1,0
+Mk81=Time 0,,33001,1,0
+Mk82=New Segment,,33751,1,0,00000000005722890000
+Mk83=Time 0,,34251,1,0
+Mk84=Stimulus,S  8,34251,1,0
+Mk85=New Segment,,35001,1,0,00000000005855850000
+Mk86=Time 0,,35501,1,0
+Mk87=Stimulus,S  8,35501,1,0
+Mk88=New Segment,,36251,1,0,00000000005904110000
+Mk89=Time 0,,36751,1,0
+Mk90=Stimulus,S  8,36751,1,0
+Mk91=New Segment,,37501,1,0,00000000005918556000
+Mk92=Stimulus,S  8,38001,1,0
+Mk93=Time 0,,38001,1,0
+Mk94=New Segment,,38751,1,0,00000000010013028000
+Mk95=Time 0,,39251,1,0
+Mk96=Stimulus,S  8,39251,1,0
+Mk97=New Segment,,40001,1,0,00000000010028394000
+Mk98=Time 0,,40501,1,0
+Mk99=Stimulus,S  8,40501,1,0
